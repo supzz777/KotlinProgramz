@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7849bd70-0be5-4c25-a865-ee009c6210a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YITLuaVCaG85pb4lsSW69Y5bfs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Kotlin.com.bridgelabz.5.PersonKt">
+    <configuration name="_1_myFirstProgramKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="_1_myFirstProgramKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2_Variables_and_DataTypesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="_2_Variables_and_DataTypesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_3_Parameters_passing_between_functionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="_3_Parameters_passing_between_functionsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_4_accessing_functions_of_the_class_and_String_interpolationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="_4_accessing_functions_of_the_class_and_String_interpolationKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.bridgelabz.5.PersonKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.5.PersonKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.com.bridgelabz.5.PersonKt" />
+        <item itemvalue="Kotlin._4_accessing_functions_of_the_class_and_String_interpolationKt" />
+        <item itemvalue="Kotlin._3_Parameters_passing_between_functionsKt" />
+        <item itemvalue="Kotlin._2_Variables_and_DataTypesKt" />
+        <item itemvalue="Kotlin._1_myFirstProgramKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7849bd70-0be5-4c25-a865-ee009c6210a4" name="Default Changelist" comment="" />
+      <created>1582629055418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582629055418</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="457" y="100" width="508" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1582634203156">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="457" y="100" width="508" height="592" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1582634203156" />
+    <state width="1253" height="122" key="GridCell.Tab.0.bottom" timestamp="1582639181793">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="122" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1582639181793" />
+    <state width="1253" height="122" key="GridCell.Tab.0.center" timestamp="1582639181792">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="122" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1582639181792" />
+    <state width="1253" height="122" key="GridCell.Tab.0.left" timestamp="1582639181792">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="122" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1582639181792" />
+    <state width="1253" height="122" key="GridCell.Tab.0.right" timestamp="1582639181793">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="122" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1582639181793" />
+    <state x="59" y="38" key="SettingsEditor" timestamp="1582631781035">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="59" y="38" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1582631781035" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1582693782634">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1582693782634" />
+  </component>
+</project>
