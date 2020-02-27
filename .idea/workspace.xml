@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faa1b292-1aee-470a-9ca5-3d2dfde8ddcb" name="Default Changelist" comment="" />
+    <list default="true" id="faa1b292-1aee-470a-9ca5-3d2dfde8ddcb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Anangram.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BubbleSort.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pallindrome.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Permutation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeNumbersDisplay.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Algo Programz/META-INF/Kotlin Algo Programz.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Algo Programz/META-INF/Kotlin Algo Programz.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Factors.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factors.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YLA3vHQTJVQHF2hh3dv2abgsOt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,42 +36,70 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Desktop/IdeaProjects/HelloWorld" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Kotlin.Leap_YearKt">
-    <configuration name="FlipCoinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.PrimeNumbersDisplayKt">
+    <configuration name="AnangramKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Algo Programz" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="FlipCoinKt" />
+      <option name="MAIN_CLASS_NAME" value="AnangramKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leap_YearKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="BinarySearchKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Algo Programz" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Leap_YearKt" />
+      <option name="MAIN_CLASS_NAME" value="BinarySearchKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Taking_user_InputKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="BubbleSortKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Algo Programz" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Taking_user_InputKt" />
+      <option name="MAIN_CLASS_NAME" value="BubbleSortKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PallindromeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin Algo Programz" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="PallindromeKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumbersDisplayKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin Algo Programz" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="PrimeNumbersDisplayKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,9 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Leap_YearKt" />
-        <item itemvalue="Kotlin.FlipCoinKt" />
-        <item itemvalue="Kotlin.Taking_user_InputKt" />
+        <item itemvalue="Kotlin.PrimeNumbersDisplayKt" />
+        <item itemvalue="Kotlin.PallindromeKt" />
+        <item itemvalue="Kotlin.AnangramKt" />
+        <item itemvalue="Kotlin.BinarySearchKt" />
+        <item itemvalue="Kotlin.BubbleSortKt" />
       </list>
     </recent_temporary>
   </component>
@@ -85,22 +129,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1582725517415">
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582781075359">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1582725517415" />
-    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1582725517414">
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1582781075359" />
+    <state width="1253" height="197" key="GridCell.Tab.0.bottom" timestamp="1582807948101">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1582725517414" />
-    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1582725517414">
+    <state width="1253" height="197" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1582807948101" />
+    <state width="1253" height="197" key="GridCell.Tab.0.center" timestamp="1582807948101">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1582725517414" />
-    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1582725517415">
+    <state width="1253" height="197" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1582807948101" />
+    <state width="1253" height="197" key="GridCell.Tab.0.left" timestamp="1582807948101">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1582725517415" />
+    <state width="1253" height="197" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1582807948101" />
+    <state width="1253" height="197" key="GridCell.Tab.0.right" timestamp="1582807948101">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="197" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1582807948101" />
+    <state x="205" y="31" key="SettingsEditor" timestamp="1582808251073">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1582808251073" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1582779665044">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1582779665044" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
