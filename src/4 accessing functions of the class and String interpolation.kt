@@ -24,6 +24,9 @@ fun main() {
  Kotlin string formatting is more powerful than basic interpolation. */
 
 
+    var s = 10;
+    var g = 7;
+     print("the su of $s and $g is ${s+g}")
 }
 
 

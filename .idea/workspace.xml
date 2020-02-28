@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7849bd70-0be5-4c25-a865-ee009c6210a4" name="Default Changelist" comment="" />
+    <list default="true" id="7849bd70-0be5-4c25-a865-ee009c6210a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/META-INF/HelloWorld.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/META-INF/HelloWorld.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/_4_accessing_functions_of_the_class_and_String_interpolationKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/_4_accessing_functions_of_the_class_and_String_interpolationKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/bridgelabz/5/PersonClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/bridgelabz/5/PersonClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/bridgelabz/5/PersonKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/bridgelabz/5/PersonKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/4 accessing functions of the class and String interpolation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/4 accessing functions of the class and String interpolation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/5/Person.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/5/Person.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/5/PersonClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/5/PersonClass.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,12 +21,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YITLuaVCaG85pb4lsSW69Y5bfs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,69 +41,71 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Kotlin.com.bridgelabz.5.PersonKt">
-    <configuration name="_1_myFirstProgramKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.kotlinFunctions.Functions_as_ExpressionsKt">
+    <configuration name="6 class constructor .PersonzKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="_1_myFirstProgramKt" />
+      <option name="MAIN_CLASS_NAME" value="6 class constructor .PersonzKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_2_Variables_and_DataTypesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Iterators.Loop_Control_StatementsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="_2_Variables_and_DataTypesKt" />
+      <option name="MAIN_CLASS_NAME" value="Iterators.Loop_Control_StatementsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_3_Parameters_passing_between_functionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Kotlin Functions.XfguhdfKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="_3_Parameters_passing_between_functionsKt" />
+      <option name="MAIN_CLASS_NAME" value="Kotlin Functions.XfguhdfKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_4_accessing_functions_of_the_class_and_String_interpolationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="kotlin functions.SsfgKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="_4_accessing_functions_of_the_class_and_String_interpolationKt" />
+      <option name="MAIN_CLASS_NAME" value="kotlin functions.SsfgKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.bridgelabz.5.PersonKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="kotlinFunctions.Functions_as_ExpressionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.5.PersonKt" />
+      <option name="MAIN_CLASS_NAME" value="kotlinFunctions.Functions_as_ExpressionsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.com.bridgelabz.5.PersonKt" />
-        <item itemvalue="Kotlin._4_accessing_functions_of_the_class_and_String_interpolationKt" />
-        <item itemvalue="Kotlin._3_Parameters_passing_between_functionsKt" />
-        <item itemvalue="Kotlin._2_Variables_and_DataTypesKt" />
-        <item itemvalue="Kotlin._1_myFirstProgramKt" />
+        <item itemvalue="Kotlin.kotlinFunctions.Functions_as_ExpressionsKt" />
+        <item itemvalue="Kotlin.kotlin functions.SsfgKt" />
+        <item itemvalue="Kotlin.Kotlin Functions.XfguhdfKt" />
+        <item itemvalue="Kotlin.6 class constructor .PersonzKt" />
+        <item itemvalue="Kotlin.Iterators.Loop_Control_StatementsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -115,33 +135,95 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="457" y="100" width="508" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1582634203156">
+    <state x="311" y="58" width="800" height="677" key="#Notifications" timestamp="1582700520327">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="457" y="100" width="508" height="592" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1582634203156" />
-    <state width="1253" height="122" key="GridCell.Tab.0.bottom" timestamp="1582639181793">
+    <state x="311" y="58" width="800" height="677" key="#Notifications/67.27.1299.741@67.27.1299.741" timestamp="1582700520327" />
+    <state x="425" y="201" width="573" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582870200791">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="122" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1582639181793" />
-    <state width="1253" height="122" key="GridCell.Tab.0.center" timestamp="1582639181792">
+    <state x="425" y="201" width="573" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1582870200791" />
+    <state x="457" y="100" width="508" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1582694270835">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="122" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1582639181792" />
-    <state width="1253" height="122" key="GridCell.Tab.0.left" timestamp="1582639181792">
+    <state x="457" y="100" width="508" height="592" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1582694270835" />
+    <state x="494" y="140" width="424" height="513" key="FileChooserDialogImpl" timestamp="1582870508687">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="122" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1582639181792" />
-    <state width="1253" height="122" key="GridCell.Tab.0.right" timestamp="1582639181793">
+    <state x="494" y="140" width="424" height="513" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1582870508687" />
+    <state width="1253" height="176" key="GridCell.Tab.0.bottom" timestamp="1582880097796">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="122" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1582639181793" />
+    <state width="1253" height="176" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1582880097796" />
+    <state width="1253" height="176" key="GridCell.Tab.0.center" timestamp="1582880097795">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="176" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1582880097795" />
+    <state width="1253" height="176" key="GridCell.Tab.0.left" timestamp="1582880097795">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="176" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1582880097795" />
+    <state width="1253" height="176" key="GridCell.Tab.0.right" timestamp="1582880097795">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="176" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1582880097795" />
     <state x="59" y="38" key="SettingsEditor" timestamp="1582631781035">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="59" y="38" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1582631781035" />
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1582693782634">
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1582866661722">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1582693782634" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1582866661722" />
+    <state x="330" y="49" width="762" height="695" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582873589315">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="330" y="49" width="762" height="695" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1299.741@67.27.1299.741" timestamp="1582873589315" />
+    <state x="0" y="27" width="869" height="741" key="find.popup" timestamp="1582700660117">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="0" y="27" width="869" height="741" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1582700660117" />
+    <state x="67" y="123" width="1289" height="547" key="new project wizard" timestamp="1582710082099">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="123" width="1289" height="547" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1582710082099" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/9 Control Statements/IF_condition.kt</url>
+          <line>2</line>
+          <properties>
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/6 class constructor /PersonClassz.kt</url>
+          <line>2</line>
+          <properties class="6 class constructor .PersonClassz" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/ControlStatements/WHEN_condition.kt</url>
+          <line>2</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/Iterators/While Loop.kt</url>
+          <line>2</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

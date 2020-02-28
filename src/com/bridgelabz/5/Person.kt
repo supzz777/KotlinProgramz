@@ -5,5 +5,6 @@ fun main() {
     var personObj = PersonClass()
    var namez = personObj.name
 
-    print("this is the name of the person ==> ${namez}")
+    println("this is the name of the person ==> ${namez}")
+    println(personObj)
 }
